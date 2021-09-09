@@ -19,6 +19,7 @@
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white"></a>
   <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=Webpack&logoColor=white"></a>
   <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?logo=npm&logoColor=white"></a>
+  <a href="#"><img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?logo=babel&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
@@ -29,6 +30,7 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc.svg?logo=visualstudiocode&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
