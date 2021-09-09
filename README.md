@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm NataLia )
 
 #### I'm currently working on becoming a Full Stack Web Developer 
 
