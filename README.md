@@ -2,6 +2,8 @@
 
 #### I'm currently working on becoming a Full Stack Web Developer 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&layout=compact)](https://github.com/Lia-Pavlova/github-readme-stats)
+
 ##### PROGRAMMING LANGUAGE
 
 <p align="left">
@@ -36,6 +38,9 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Lia-Pavlova&show_icons=true&include_all_commits=true)](https://github.com/Lia-Pavlova/github-readme-stats)
+
 ##### CONNECT WITH ME:
 
 [<img align="left" alt="lia-pavlova | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326 "/>][linkedin]
@@ -43,3 +48,6 @@
 
 [linkedin]: https://www.linkedin.com/in/natalia-pavlova/
 [telegram]: https://https://t.me/Lia_Pavlova
+
+
+
