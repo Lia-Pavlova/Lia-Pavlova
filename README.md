@@ -27,7 +27,7 @@
   <a href="#"><img alt="Node.js"src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a> 
   <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
   <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=Webpack&logoColor=white"></a>
   <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?logo=npm&logoColor=white"></a>
   <a href="#"><img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?logo=babel&logoColor=white"></a>
@@ -51,15 +51,11 @@
 
 ##### CONNECT WITH ME:
 
-[<img align="left" alt="lia-pavlova | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326 "/>][linkedin]
-[<img align="left" alt="lia-pavlova | Telegram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1538061120/4724/telegram.png?1538061120"/>][telegram]
-
-[linkedin]: https://www.linkedin.com/in/natalia-pavlova/
-[telegram]: https://https://t.me/Lia_Pavlova
+<a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img alt="lia-pavlova | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://https://t.me/Lia_Pavlova" target="_blank"><img align="left" alt="lia-pavlova | Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/></a>
 
 
-<p align="center"><img alt="Forks" src="https://img.shields.io/github/forks/Lia-Pavlova/Lia-Pavlova?style=flat-square&labelColor=343b41"/>
-<img src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views"> </p>
+<img src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
 
 
 
