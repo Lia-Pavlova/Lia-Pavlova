@@ -1,4 +1,4 @@
-### Hi there 👋, I'm NataLia )
+### Hi there <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/Hi.gif" width="25px">, I'm NataLia )
 
 #### I'm currently working on becoming a Full Stack Web Developer 
 
