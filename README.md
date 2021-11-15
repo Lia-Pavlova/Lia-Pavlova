@@ -57,4 +57,7 @@
 [telegram]: https://https://t.me/Lia_Pavlova
 
 
+<img src="https://gpvc.arturio.dev/Lia" alt="profile views">
+
+
 
