@@ -2,7 +2,15 @@
 
 #### I'm currently working on becoming a Full Stack Web Developer 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&layout=compact)](https://github.com/Lia-Pavlova/github-readme-stats)
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=8&layout=compact&show_icons=true&&theme=graywhite&hide_border=true"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Lia-Pavlova&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true"/></td>
+  </tr>
+</table>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lia-Pavlova)](https://github.com/Lia-Pavlova/github-readme-stats)
+
 
 ##### PROGRAMMING LANGUAGE
 
@@ -39,8 +47,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Lia-Pavlova&show_icons=true&include_all_commits=true)](https://github.com/Lia-Pavlova/github-readme-stats)
 
 ##### CONNECT WITH ME:
 
