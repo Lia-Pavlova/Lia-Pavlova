@@ -1,6 +1,8 @@
 ### Hi there <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/Hi.gif" width="25px">, I'm NataLia )
 
-#### I'm currently working on becoming a Full Stack Web Developer 
+#### I'm currently working on becoming a Full Stack Web Developer. 
+
+------------
 
 <table>
   <tr>
@@ -10,8 +12,11 @@
   </tr>
 </table>
 
+------------
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=compact&theme=graywhite&hide_border=true)](https://github.com/Lia-Pavlova/github-readme-stats)
 
+------------
 
 ##### PROGRAMMING LANGUAGE:
 
@@ -49,21 +54,17 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
+------------
 
-##### CONNECT WITH ME:
-
-<a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img alt="lia-pavlova | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Lia_Pavlova" target="_blank"><img align="left" alt="lia-pavlova | Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/></a>
-
-##### MOTTO
+##### MOTTO:
 
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
-####
+##### CONNECT WITH ME:
 
-<a href="https://www.facebook.com/pavlova.natalie/" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/fb.png" alt="Facebook" width="30"></a>
-<a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/Lia-Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
-<a href="https://t.me/Lia_Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="30"></a>
+<a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://t.me/Lia_Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="28"></a>
+<a href="https://www.facebook.com/pavlova.natalie/" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/fb.png" alt="Facebook" width="30"></a>
 
 
