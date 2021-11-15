@@ -6,13 +6,14 @@
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=8&layout=compact&show_icons=true&theme=graywhite&hide_border=true"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Lia-Pavlova&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true"/></td>
+    <td valign="center"><img width="150px" src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views"></td>
   </tr>
 </table>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=compact&theme=graywhite&hide_border=true)](https://github.com/Lia-Pavlova/github-readme-stats)
 
 
-##### PROGRAMMING LANGUAGE
+##### PROGRAMMING LANGUAGE:
 
 <p align="left">
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -21,7 +22,7 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
 
-##### FRAMEWORK AND LIBRIES 
+##### FRAMEWORK AND LIBRIES: 
 
 <p align="left">
   <a href="#"><img alt="Node.js"src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a> 
@@ -36,7 +37,7 @@
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-##### SOFTWARE AND TOOLS
+##### SOFTWARE AND TOOLS:
 
 <p align="left">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -53,10 +54,6 @@
 
 <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img alt="lia-pavlova | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a href="https://https://t.me/Lia_Pavlova" target="_blank"><img align="left" alt="lia-pavlova | Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/></a>
-
-
-<img src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
-
 
 
 
