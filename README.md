@@ -2,21 +2,6 @@
 
 #### I'm currently working on becoming a Full Stack Web Developer. 
 
-
-<table>
-  <tbody align="center">
-    <tr>
-      <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=8&layout=compact&show_icons=true&theme=graywhite&hide_border=true"/></td>
-      <td valign="top"><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&theme=graywhite&hide_title=true&hide_border=true"/></td>
-    </tr>
-  </tbody>
-</table>
-
-### My Wakatime Stats this week ⌚
-<a href="https://github.com/Lia-Pavlova/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Lia&compact=true&theme=graywhite&hide_title=true&hide_border=true"/>
-</a>
-
 ------------
 
 <details>
@@ -64,15 +49,33 @@
 
 ------------
 
+<table>
+  <tbody align="center">
+    <tr>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=8&layout=compact&show_icons=true&theme=graywhite&hide_border=true"/></td>
+      <td valign="top"><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&theme=graywhite&hide_title=true&hide_border=true"/></td>
+    </tr>
+  </tbody>
+</table>
+
+### ⌚ My Wakatime Stats this week 
+<div align="center">
+  <a href="https://github.com/Lia-Pavlova/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Lia&compact=true&theme=graywhite&hide_title=true&hide_border=true"/>
+</a></div>
+
+------------
 #### 💡&nbsp;&nbsp;MOTTO:
 
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
 ------------
-#### CONNECT WITH ME: 
-<a href="https://github.com/Lia-Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
-<a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://t.me/Lia_Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="28"></a>
-<a href="https://www.facebook.com/pavlova.natalie/" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/fb.png" alt="Facebook" width="30"></a>
 
-<img width="150px" src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
+<div align="left">
+  <a href="https://github.com/Lia-Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
+  <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
+  <a href="https://t.me/Lia_Pavlova" target="_blank">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="28"></a>
+  <a href="https://www.facebook.com/pavlova.natalie/" target="_blank">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/fb.png" alt="Facebook" width="30"></a>
+
+  <img align="right" width="150px" src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
+</div>
