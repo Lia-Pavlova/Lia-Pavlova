@@ -53,8 +53,17 @@
 ##### CONNECT WITH ME:
 
 <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img alt="lia-pavlova | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="https://https://t.me/Lia_Pavlova" target="_blank"><img align="left" alt="lia-pavlova | Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/Lia_Pavlova" target="_blank"><img align="left" alt="lia-pavlova | Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/></a>
 
+##### MOTTO
 
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+
+####
+
+<a href="https://www.facebook.com/pavlova.natalie/" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/fb.png" alt="Facebook" width="30"></a>
+<a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/Lia-Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
+<a href="https://t.me/Lia_Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="30"></a>
 
 
