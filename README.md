@@ -12,15 +12,15 @@
   </tbody>
 </table>
 
-<details>
-  <summary><b>&nbsp;&nbsp;⌚&nbsp;This week I spent my time on 👉</b></summary>
-  <br/>
+### My Wakatime Stats this week ⌚
+<a href="https://github.com/Lia-Pavlova/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Lia&compact=true&theme=graywhite&hide_title=true&hide_border=true"/>
+</a>
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=compact&theme=graywhite&hide_title=true&hide_border=true)
-  
-</details>
+------------
+
 <details>
-  <summary><b>&nbsp;&nbsp;PROGRAMMING&nbsp;LANGUAGE 👉</b></summary>
+  <summary><b>&nbsp;&nbsp;PROGRAMMING&nbsp;LANGUAGE</b></summary>
   <br/>
 
 <p align="left">
@@ -31,7 +31,7 @@
 </p>
   </details>
   <details>
-  <summary><b>&nbsp;&nbsp;FRAMEWORK&nbsp;AND&nbsp;LANGUAGE 👉</b></summary>
+  <summary><b>&nbsp;&nbsp;FRAMEWORK&nbsp;AND&nbsp;LANGUAGE</b></summary>
   <br/>
 
 <p align="left">
@@ -48,7 +48,7 @@
 </p>
   </details>
   <details>
-  <summary><b>&nbsp;&nbsp;SOFTWARE&nbsp;AND&nbsp;TOOLS 👉</b></summary>
+  <summary><b>&nbsp;&nbsp;SOFTWARE&nbsp;AND&nbsp;TOOLS</b></summary>
   <br/>
 
 <p align="left">
@@ -64,12 +64,12 @@
 
 ------------
 
-##### 💡&nbsp;&nbsp;MOTTO:
+#### 💡&nbsp;&nbsp;MOTTO:
 
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
 ------------
-##### CONNECT WITH ME: 
+#### CONNECT WITH ME: 
 <a href="https://github.com/Lia-Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
 <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://t.me/Lia_Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="28"></a>
