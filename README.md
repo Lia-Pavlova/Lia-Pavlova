@@ -58,8 +58,8 @@
   </tbody>
 </table>
 
-### ⌚ My Wakatime Stats this week 
-<div align="center">
+#### ⌚ My Wakatime Stats this week: 
+<div align="left">
   <a href="https://github.com/Lia-Pavlova/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Lia&compact=true&theme=graywhite&hide_title=true&hide_border=true"/>
 </a></div>
