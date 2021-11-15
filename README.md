@@ -7,18 +7,18 @@
   <tbody align="center">
     <tr>
       <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=8&layout=compact&show_icons=true&theme=graywhite&hide_border=true"/></td>
-      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Lia-Pavlova&show_icons=true&include_all_commits=true&theme=graywhite&hide_title=true&hide_border=true"/></td>
+      <td valign="top"><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&theme=graywhite&hide_title=true&hide_border=true"/></td>
     </tr>
   </tbody>
 </table>
 
-------------
-
-⌚&nbsp;**This week I spent my time on**
+<details>
+  <summary><b>&nbsp;&nbsp;⌚&nbsp;This week I spent my time on 👉</b></summary>
+  <br/>
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=compact&theme=graywhite&hide_title=true&hide_border=true)
-
-------------
+  
+</details>
 <details>
   <summary><b>&nbsp;&nbsp;PROGRAMMING&nbsp;LANGUAGE 👉</b></summary>
   <br/>
@@ -69,9 +69,7 @@
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
 ------------
-
-##### CONNECT WITH ME:
-
+##### CONNECT WITH ME: 
 <a href="https://github.com/Lia-Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
 <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://t.me/Lia_Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="28"></a>
