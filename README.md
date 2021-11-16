@@ -66,14 +66,16 @@
 
 #### My Wakatime Stats this week: 
 <div align="center">
-  <a href="https://github.com/Lia-Pavlova/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lia&layout=compact&hide_title=true&hide_border=true"/>
-</a></div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=compact&hide_title=true&hide_border=true"/>
+</div>
 
 
-#### 💡&nbsp;&nbsp;MOTTO:
+<br/>
+<br/>
 
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+ > <br/>
+ > 💡 When your work speaks for itself, don't interrupt. - Henry J. Kaiser <br/>
+ > <br/>
 
  <br/>
  <br/>
