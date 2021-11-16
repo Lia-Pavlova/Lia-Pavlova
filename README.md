@@ -13,17 +13,17 @@
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="SCSS" src="https://img.shields.io/badge/Scss-hotpink.svg?logo=SASS&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
 </p>
   </details>
   <details>
-  <summary><b>&nbsp;&nbsp;FRAMEWORK&nbsp;AND&nbsp;LANGUAGE</b></summary>
+  <summary><b>&nbsp;&nbsp;FRAMEWORK&nbsp;AND&nbsp;LIBRARIES</b></summary>
   <br/>
 
 <p align="left">
   <a href="#"><img alt="Node.js"src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a> 
   <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
   <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=Webpack&logoColor=white"></a>
   <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?logo=npm&logoColor=white"></a>
   <a href="#"><img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?logo=babel&logoColor=white"></a>
@@ -41,9 +41,12 @@
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc.svg?logo=visualstudiocode&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white"></a>
+    <a href="#"><img alt="GoogleSheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white"></a>
 </p>
   </details>
 
@@ -77,5 +80,5 @@
   <a href="https://t.me/Lia_Pavlova" target="_blank">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="28"></a>
   <a href="https://www.facebook.com/pavlova.natalie/" target="_blank">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/fb.png" alt="Facebook" width="30"></a>
 
-  <img align="right" width="150px" src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
+  <img align="right" width="140px" src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
 </div>
