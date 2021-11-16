@@ -58,19 +58,19 @@
   </tbody>
 </table>
 
-#### ⌚ My Wakatime Stats this week: 
+#### My Wakatime Stats this week: 
 <div align="center">
   <a href="https://github.com/Lia-Pavlova/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lia&compact=true&hide_title=true&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lia&layout=compact&hide_title=true&hide_border=true"/>
 </a></div>
 
-------------
+
 #### 💡&nbsp;&nbsp;MOTTO:
 
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
-------------
-
+ <br/>
+ <br/>
 <div align="left">
   <a href="https://github.com/Lia-Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
   <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
