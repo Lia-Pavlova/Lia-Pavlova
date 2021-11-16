@@ -78,10 +78,10 @@
  <br/>
  <br/>
 <div align="left">
-  <a href="https://github.com/Lia-Pavlova" target="_blank"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
-  <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
-  <a href="https://t.me/Lia_Pavlova" target="_blank">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="28"></a>
-  <a href="https://www.facebook.com/pavlova.natalie/" target="_blank">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/fb.png" alt="Facebook" width="30"></a>
+  <a href="https://github.com/Lia-Pavlova" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
+  <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
+  <a href="https://t.me/Lia_Pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="28"></a>
+  <a href="https://www.facebook.com/pavlova.natalie/" target="_blank" rel="noopener noreferrer">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/fb.png" alt="Facebook" width="30"></a>
 
   <img align="right" width="140px" src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
 </div>
