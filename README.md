@@ -66,7 +66,7 @@
 
 #### My Wakatime Stats this week: 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=compact&langs_count=10&hide_title=true&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lia&layout=compact&langs_count=10&hide_title=true&hide_border=true"/>
 </div>
 
 
