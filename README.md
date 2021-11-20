@@ -64,10 +64,11 @@
   </tbody>
 </table>
 
-#### My Wakatime Stats this week: 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=compact&langs_count=10&hide_title=true&hide_border=true"/>
+#### My Wakatime Stats this week: <img align="" src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=plastic" />
+<div align="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=true&langs_count=10&hide_title=true&hide_border=true"/>
 </div>
+
 
 
 <br/>
@@ -79,11 +80,12 @@
 
  <br/>
  <br/>
+ 
 <div align="left">
-  <a href="https://github.com/Lia-Pavlova" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/git.png" alt="GitHub" width="30"></a>
-  <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/in.png" alt="LinkedIn" width="30"></a>
-  <a href="https://t.me/Lia_Pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/telegram.png" alt="Telegram" width="28"></a>
-  <a href="https://www.facebook.com/pavlova.natalie/" target="_blank" rel="noopener noreferrer">  <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/fb.png" alt="Facebook" width="30"></a>
+  <a href="https://github.com/Lia-Pavlova" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/79576135/142723356-7cc7aab1-bce2-4282-834c-ed289076c47f.png" width="30"></a>
+  <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/79576135/142722677-43d4bbf6-fcac-4182-b92a-b81f1135fc48.png" alt="LinkedIn" width="30"></a>
+  <a href="https://t.me/Lia_Pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/79576135/142723317-83dfff4a-1af8-44e1-8f27-41bde55ff635.png" alt="Telegram" width="30"></a>
+  <a href="https://www.facebook.com/pavlova.natalie/" target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/79576135/142722511-0b3b6fe5-a0b6-4da9-b13f-6d24a96bf646.png" alt="Facebook" width="30"></a>
 
   <img align="right" width="140px" src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
 </div>
