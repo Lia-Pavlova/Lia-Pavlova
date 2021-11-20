@@ -59,7 +59,7 @@
 
 #### My Wakatime Stats this week: <img align="" src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=plastic" />
 <div align="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=true&langs_count=10&bg_color=000,111a28,1877F2,26A5E4,000&theme=vue&text_color=fff&hide_title=true&hide_border=true"/>
+  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lia&layout=true&langs_count=10&bg_color=000,555,111a28,0071C5,3A75BD,073B5A&theme=vue&text_color=fff&hide_title=true&hide_border=true"/>
 </div>
 
 <br/>
