@@ -55,7 +55,7 @@
 
 ------------
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=10&layout=compact&show_icons=true&bg_color=fff,111a28,1877F2,26A5E4&text_color=fff&title_color=fff&theme=graywhite&hide_border=true"/><!-- wi*quL3fcV --><img height="150px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&bg_color=26A5E4&theme=graywhite&icon_color=fff&text_color=fff&hide_title=true&hide_border=true"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=10&layout=compact&show_icons=true&bg_color=000,555,111a28,3A75BD,26a5e4c4&text_color=fff&title_color=fff&theme=graywhite&hide_border=true"/><!-- wi*quL3fcV --><img height="150px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&bg_color=26a5e4c4&theme=graywhite&icon_color=fff&text_color=fff&hide_title=true&hide_border=true"/>
 
 #### My Wakatime Stats this week: <img align="" src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=plastic" />
 <div align="">
