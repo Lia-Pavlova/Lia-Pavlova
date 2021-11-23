@@ -1,7 +1,7 @@
 <!-- <img height="5px" width="100%" src="https://99px.ru/sstorage/86/2015/07/image_860207152206425535284.gif"> -->
 <div align="right"><br/>
   <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="center" height="35px" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/L-P.gif"></a><br/>
-   <br/><img align="right" height="3px" width="430px" src="https://99px.ru/sstorage/86/2015/07/image_860207152206425535284.gif"><br/>
+   <br/><img align="right" height="3px" width="400px" src="https://99px.ru/sstorage/86/2015/07/image_860207152206425535284.gif"><br/>
   <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="right" height="20px" align="center" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/F-SD.gif"></a></div><br/>
 
 <!-- ### Hi there <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/Hi.gif" width="25px">, I'm NataLia ) -->
