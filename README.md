@@ -55,14 +55,13 @@
 
 ------------
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=10&layout=compact&show_icons=true&bg_color=transparent&text_color=3A75BD&title_color=3A75BD&theme=graywhite&hide_border=true"/><img height="150px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&bg_color=transparent&theme=solarized-light&icon_color=26a5e4c4&text_color=3A75BD&hide_title=true&hide_border=true"/>
+<img embed height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=10&layout=compact&show_icons=true&bg_color=000,555,111a28,3A75BD&text_color=fff&title_color=fff&theme=graywhite&hide_border=true"/><img height="150px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&bg_color=3A75BD&theme=vue&icon_color=3cb371&text_color=fff&hide_title=true&hide_border=true"/>
 
 #### My Wakatime Stats this week: 
-
-<div  align="right"><img src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg" /></div>
+<div  align=""><img src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg" /></div>
 <div align="left">
-  <figure><img height="250px" align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Lia&layout=true&langs_count=10&&theme_color=fff&text_color=555&hide_title=true&hide_border=true"/></figure>
-  <figure><img height="240px" src="https://wakatime.com/share/@Lia/e8662733-f7a8-4411-8e33-9667290e6601.svg"></figure>
+  <figure><img height="250px" align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Lia&layout=true&langs_count=10&bg_color=000,555,111a28,0071C5,3A75BD,073B5A&theme=vue&text_color=fff&hide_title=true&hide_border=true"/></figure></figure>
+  <figure><img height="260px" src="https://wakatime.com/share/@Lia/e8662733-f7a8-4411-8e33-9667290e6601.svg"></figure>
 </div>
 
 <br/>
