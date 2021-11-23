@@ -1,15 +1,13 @@
-<img height="2px" width="100%" src="https://99px.ru/sstorage/86/2015/07/image_860207152206425535284.gif">
-
+<!-- <img height="5px" width="100%" src="https://99px.ru/sstorage/86/2015/07/image_860207152206425535284.gif"> -->
 <div align="right"><br/>
-  <img height="10px" width="50%" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/cover.gif"><a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="center" height="30px" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/L-P.gif"></a><br/>
-  <img height="7px" width="45%" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/cover.gif">
+  <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="center" height="30px" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/L-P.gif"></a><br/>
   <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img height="20px" align="center" alt="HTML" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/F-SD.gif"></a></div>
 
 <!-- ### Hi there <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/Hi.gif" width="25px">, I'm NataLia ) -->
 <!-- #### I'm currently working on becoming a Full-Stack Web Developer.  -->
  
- <br/>
- <img height="2px" width="100%" alt="HTML" src="https://99px.ru/sstorage/86/2015/07/image_860207152206425535284.gif">
+
+ <img height="5px" width="100%" alt="HTML" src="https://99px.ru/sstorage/86/2015/07/image_860207152206425535284.gif">
 <!-- ------------ -->
 
 
@@ -69,7 +67,7 @@
 <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=10&layout=compact&show_icons=true&bg_color=000,555,111a28,3A75BD&text_color=fff&title_color=fff&theme=graywhite&hide_border=true"/><img height="160px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&bg_color=3A75BD&theme=vue&icon_color=3cb371&text_color=fff&hide_title=true&hide_border=true"/>
 
 #### My Wakatime Stats this week: 
-<div  align=""><img src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg" /></div>
+<div  align="right"><img src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg" /></div>
 <div align="left">
   <figure><img height="250px" align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Lia&layout=true&langs_count=10&bg_color=000,555,111a28,0071C5,3A75BD,073B5A&theme=vue&text_color=fff&hide_title=true&hide_border=true"/></figure></figure>
   <figure><img height="250px" src="https://wakatime.com/share/@Lia/be203e5b-28d8-4052-92af-09ed6aa382e2.svg"></figure>
@@ -91,7 +89,7 @@
   <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/79576135/142722677-43d4bbf6-fcac-4182-b92a-b81f1135fc48.png" alt="LinkedIn" width="30"></a>
   <a href="https://t.me/Lia_Pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/79576135/142728713-8a5318ea-b11d-48ae-8eae-e25d885bdcd0.png"" alt="Telegram" width="30"></a>
   <a href="https://www.facebook.com/pavlova.natalie/" target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/79576135/142722511-0b3b6fe5-a0b6-4da9-b13f-6d24a96bf646.png" alt="Facebook" width="30"></a>
-  <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img height="30px" alt="HTML" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/CV.gif"></a>
+  <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img height="28px" alt="HTML" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/CV.gif"></a>
 
   <img align="right" width="140px" src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
 </div>
