@@ -61,7 +61,7 @@
 <div  align=""><img src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg" /></div>
 <div align="left">
   <figure><img height="250px" align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Lia&layout=true&langs_count=10&bg_color=000,555,111a28,0071C5,3A75BD,073B5A&theme=vue&text_color=fff&hide_title=true&hide_border=true"/></figure></figure>
-  <figure><img height="260px" src="https://wakatime.com/share/@Lia/e8662733-f7a8-4411-8e33-9667290e6601.svg"></figure>
+  <figure><img height="250px" src="https://wakatime.com/share/@Lia/be203e5b-28d8-4052-92af-09ed6aa382e2.svg"></figure>
 </div>
 
 <br/>
