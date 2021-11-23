@@ -55,7 +55,7 @@
 
 ------------
 
-<img embed height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=10&layout=compact&show_icons=true&bg_color=000,555,111a28,3A75BD&text_color=fff&title_color=fff&theme=graywhite&hide_border=true"/><img height="150px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&bg_color=3A75BD&theme=vue&icon_color=3cb371&text_color=fff&hide_title=true&hide_border=true"/>
+<img embed height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=10&layout=compact&show_icons=true&bg_color=000,555,111a28,3A75BD&text_color=fff&title_color=fff&theme=graywhite&hide_border=true"/><img height="160px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&bg_color=3A75BD&theme=vue&icon_color=3cb371&text_color=fff&hide_title=true&hide_border=true"/>
 
 #### My Wakatime Stats this week: 
 <div  align=""><img src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg" /></div>
