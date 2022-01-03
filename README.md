@@ -69,7 +69,7 @@
 <br/>
 <br/>
 
-#### <img align="right" width="200px" height="25px" src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg" />
+#### <img align="right"  src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg" />
 <div align="left">
   
   <figure><img height="300px" src="https://wakatime.com/share/@Lia/be203e5b-28d8-4052-92af-09ed6aa382e2.svg"></figure>
@@ -93,5 +93,5 @@
   <a href="https://www.facebook.com/pavlova.natalie/" target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/79576135/142722511-0b3b6fe5-a0b6-4da9-b13f-6d24a96bf646.png" alt="Facebook" width="30"></a>
   <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img height="28px" alt="HTML" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/C_V.gif"></a>
 
-  <img align="right" width="140px" src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
+  <img align="right"  src="https://gpvc.arturio.dev/Lia-Pavlova" alt="profile views">
 </div>
