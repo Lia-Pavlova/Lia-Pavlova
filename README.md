@@ -51,6 +51,8 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc.svg?logo=visualstudiocode&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-orange.svg?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20Compass-darkgreen.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white"></a>
