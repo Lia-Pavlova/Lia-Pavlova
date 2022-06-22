@@ -1,8 +1,7 @@
-<!-- <img  width="100%" src="https://99px.ru/sstorage/86/2015/07/image_860207152206425535284.gif"> -->
 <div align="right"><br/>
-  <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="center" height="30px" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/L-P.gif"></a><br/>
-  <br><img align="right" height="10px" width="320" src="https://c.tenor.com/FA2Pvh0D8YgAAAAC/line.gif"><br/>
-  <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="right" height="18px" align="center" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/F-SD.gif"></a></div><br/>
+  <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="center" height="25px" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/L-P.gif"></a><br/>
+  <br><img align="right" height="10px" width="100%" src="https://c.tenor.com/FA2Pvh0D8YgAAAAC/line.gif"><br/>
+  <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="right" height="20px" align="center" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/F-SD.gif"></a></div><br/>
 
 <!-- ### Hi there <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/Hi.gif" width="25px">, I'm NataLia ) -->
 <!-- #### I'm currently working on becoming a Full-Stack Web Developer.  -->
