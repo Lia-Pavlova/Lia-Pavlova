@@ -1,6 +1,6 @@
 <div align="right"><br/>
   <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="center" height="25px" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/L-P.gif"></a><br/>
-  <br><img align="right" height="10px" width="100%" src="https://c.tenor.com/FA2Pvh0D8YgAAAAC/line.gif"><br/>
+  <br><img align="right" height="10px" width="100%" src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif"><br/>
   <a href="https://lia-pavlova.github.io/Lia-Portfolio/"><img align="right" height="20px" align="center" src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/F-SD.gif"></a></div><br/>
 
 <!-- ### Hi there <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/Hi.gif" width="25px">, I'm NataLia ) -->
