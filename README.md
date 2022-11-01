@@ -22,6 +22,7 @@
   <a href="#"><img alt="SCSS" src="https://img.shields.io/badge/Scss-hotpink.svg?logo=SASS&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
+  <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Golang-000000?logo=go&logoColor=white%22"></a>
 </p>
   </details>
   <details>
@@ -52,6 +53,8 @@
     <a href="#"><img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc.svg?logo=visualstudiocode&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-orange.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20Compass-darkgreen.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img  alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-white?logo=postgreSQL&logoColor=white%22"></a>
+    <a href="#"><img  alt="Docker" src="https://img.shields.io/badge/Doker-2496ED?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white"></a>
