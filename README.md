@@ -74,22 +74,23 @@
 #### <img align="right"  src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=for-the-badge" /> -->
 
 <img src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=social" />
-<figure><img src="https://wakatime.com/share/@Lia/42d91287-5d0c-4443-bcff-7ac7c418a232.svg"></figure>
+<br/>
+<figure><img src="https://wakatime.com/share/@Lia/80eaacba-c2d8-4adb-bbe4-0ecbefbffb89.svg"></figure>
 
 <!-- <div align="left">
   <figure><img height="300px" src="https://wakatime.com/share/@Lia/be203e5b-28d8-4052-92af-09ed6aa382e2.svg"></figure>
  </div> -->
 
-
+<!--
 <br/>
-<br/>
+<br/> -->
 
 <!-- > <br/>
  > 💡 When your work speaks for itself, don't interrupt. - Henry J. Kaiser <br/>
  > <br/> -->
 
- <br/>
- <br/>
+ <!-- <br/>
+ <br/>  -->
  
 <!-- <div align="left">
   <a href="https://github.com/Lia-Pavlova" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/79576135/142723356-7cc7aab1-bce2-4282-834c-ed289076c47f.png" width="30"></a>
