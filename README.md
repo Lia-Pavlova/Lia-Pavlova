@@ -6,10 +6,11 @@
 <!-- ### Hi there <img src="https://github.com/Lia-Pavlova/Lia-Pavlova/blob/main/Hi.gif" width="25px">, I'm NataLia ) -->
 <!-- #### I'm currently working on becoming a Full-Stack Web Developer.  -->
  
-
+ > <br/>
+ > 💡 When your work speaks for itself, don't interrupt. - Henry J. Kaiser <br/>
+ > <br/>
 
 <!-- ------------ -->
-
 
  <br/> 
 <details>
@@ -70,13 +71,15 @@
 
 <!-- ------------ -->
 
-<img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=10&layout=compact&show_icons=true&bg_color=000,555,111a28,3A75BD&text_color=fff&title_color=fff&theme=graywhite&hide_border=true"/><img height="160px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&bg_color=3A75BD&theme=vue&icon_color=3cb371&text_color=fff&hide_title=true&hide_border=true"/>
+<!-- <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lia-Pavlova&langs_count=10&layout=compact&show_icons=true&bg_color=000,555,111a28,3A75BD&text_color=fff&title_color=fff&theme=graywhite&hide_border=true"/><img height="160px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Lia-Pavlova&show_icons=true&include_all_commits=true&bg_color=3A75BD&theme=vue&icon_color=3cb371&text_color=fff&hide_title=true&hide_border=true"/> 
 <br/>
-<br/>
+<br/> 
 
-#### <img align="right"  src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=for-the-badge" />
+#### <img align="right"  src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=for-the-badge" /> -->
+
+<img align="right"  src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=social" />
+
 <div align="left">
-  
   <figure><img height="300px" src="https://wakatime.com/share/@Lia/be203e5b-28d8-4052-92af-09ed6aa382e2.svg"></figure>
 </div>
 
@@ -84,14 +87,12 @@
 <br/>
 <br/>
 
- > <br/>
- > 💡 When your work speaks for itself, don't interrupt. - Henry J. Kaiser <br/>
- > <br/>
+
 
  <br/>
  <br/>
  
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/Lia-Pavlova" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/79576135/142723356-7cc7aab1-bce2-4282-834c-ed289076c47f.png" width="30"></a>
   <a href="https://www.linkedin.com/in/natalia-pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/79576135/142722677-43d4bbf6-fcac-4182-b92a-b81f1135fc48.png" alt="LinkedIn" width="30"></a>
   <a href="https://t.me/Lia_Pavlova" target="_blank" rel="noopener noreferrer">  <img src="https://user-images.githubusercontent.com/79576135/142728713-8a5318ea-b11d-48ae-8eae-e25d885bdcd0.png"" alt="Telegram" width="30"></a>
@@ -100,4 +101,4 @@
 
   <img align="right"  src="https://komarev.com/ghpvc/?username=Lia-Pavlova&style=for-the-badge" alt="profile views">
 
-</div>
+</div> -->
