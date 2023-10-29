@@ -73,11 +73,12 @@
 
 #### <img align="right"  src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=for-the-badge" /> -->
 
-<img align="right"  src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=social" />
+<img src="https://wakatime.com/badge/user/0922839b-286b-4694-8ce4-17ea908a758d.svg?style=social" />
+<figure><img src="https://wakatime.com/share/@Lia/91c03ed6-d22b-4f90-958d-d39cf945c612.svg"></figure>
 
-<div align="left">
+<!-- <div align="left">
   <figure><img height="300px" src="https://wakatime.com/share/@Lia/be203e5b-28d8-4052-92af-09ed6aa382e2.svg"></figure>
-</div>
+ </div> -->
 
 
 <br/>
