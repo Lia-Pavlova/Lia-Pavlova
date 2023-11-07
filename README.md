@@ -49,6 +49,7 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc.svg?logo=visualstudiocode&logoColor=white"></a>
+    <a href="#"><img alt="methodology BEM" src="https://img.shields.io/badge/BEM-000000.svg?logo=BEM"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-orange.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20Compass-darkgreen.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img  alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-white?logo=postgreSQL&logoColor=white%22"></a>
