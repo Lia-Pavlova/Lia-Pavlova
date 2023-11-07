@@ -103,3 +103,7 @@
   <img align="right"  src="https://komarev.com/ghpvc/?username=Lia-Pavlova&style=for-the-badge" alt="profile views">
 
 </div> -->
+---
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Lia-Pavlova&style=for-the-badge&color=blue" alt="" align="center"/>
+</div>
